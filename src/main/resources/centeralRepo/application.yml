@@ -1,0 +1,5 @@
+#common configuration that will share across all services
+status: COMMON CONFIG VALUE!!
+
+service_one_name: service_one
+service_two_name: service_two
